@@ -2,4 +2,4 @@
 title: Home
 layout: base
 ---
-Welcome
+<p> Page under construction. Stay Tuned!</p>
