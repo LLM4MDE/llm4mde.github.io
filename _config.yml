@@ -21,18 +21,18 @@
 title: LLM4MDE 2024
   #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  First workshop on Larga Language Models 4 Model-Driven Engineering at STAF 2024
+  First workshop on Large Language Models 4 Model-Driven Engineering at STAF 2024
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://llm4mde.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: to be added
 github_username:  llm4mde
 
 # Build settings
-theme: minima
-#remote_theme: pages-themes/cayman@v0.2.0
+#theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
-    #  - jekyll-remote-theme
+  - jekyll-remote-theme
 
 header_pages:
   - index.md
